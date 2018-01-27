@@ -3,3 +3,7 @@ img {
 	width: 100px;
 	letter-spacing: 10px;
 }
+
+body {
+	font-family: 'Arial';
+}
